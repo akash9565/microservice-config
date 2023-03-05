@@ -1,6 +1,3 @@
-spring:
-  application:
-    name: User-default
     
 eureka:
   client:
